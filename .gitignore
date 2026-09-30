@@ -1,0 +1,6 @@
+.godot/
+*.tmp
+scheduler/scheduler.log
+scheduler/state.json
+build/
+exports/
